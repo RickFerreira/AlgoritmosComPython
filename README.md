@@ -2,7 +2,7 @@
   
 # AlgoritmosTheHuxleyEmPython
   
-<h4>Parte dos problemas de algoritmos resolvidos por mim na plataforma do The Huxley, nos estudos durante o curso de Engenharia de Computação, na cadeira de algoritmos</h4>
+<h4>Parte dos problemas de algoritmos resolvidos por mim na plataforma do The Huxley, nos estudos durante a cadeira de algoritmos, do curso de Engenharia da Computação e Análise e Desenvolvimento de Sistemas</h4>
   
 <p ><img  src="https://i.pinimg.com/originals/d0/d5/cb/d0d5cb62eafbef574f43a85e0c8d8beb.png" width="60%" alt="imagem" >
   

@@ -9,7 +9,6 @@ cinco = int(0)
 dois = int(0)
 um = int(0)
 
-
 while (N>=100):
     cem+=1
     N-=100
